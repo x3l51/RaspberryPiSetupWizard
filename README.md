@@ -1,4 +1,4 @@
-If you, like me, setup raspberry pi's quite frequently, you most likely get tired of doing so, because of all the various things to do. I wrote a simple script to help me with most of the stuff that usually takes some time, like setting up WiFi without having a .conf with the login data in cleartext, adding a new root user and deleting the default PI user, setting up screentech as MOTD etc.
+If you, like me, setup raspberry pi's quite frequently, you most likely get tired of doing so, because of all the various things to do. I wrote a simple script to help me with most of the stuff that usually takes some time, like setting up WiFi without having a `.conf` with the login data in cleartext, adding a new `root user` and deleting the default `PI user`, setting up `screenfetch` as `MOTD` etc.
 
 You can disable parts of the script easily by commenting out the function calls at the bottom of it.
 
